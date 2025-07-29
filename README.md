@@ -133,3 +133,29 @@ To start the DQL agent training and visualize its progress:
 ---
 
 ### **7. Project Structure**
+
+*(Note: Excluded large model weights, replay memory, and virtual environments from this structure for clarity on GitHub.)*
+
+---
+
+### **8. Contributing**
+Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please follow these steps:
+
+1.  Fork the repository.
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
+
+---
+
+### **9. License**
+This project is licensed under the **MIT License** - see the `LICENSE` file for details. (Create a `LICENSE` file in the root of your project if you don't have one).
+
+---
+
+### **10. Contact**
+[Your Name] - [your.email@example.com]
+Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+
+---
